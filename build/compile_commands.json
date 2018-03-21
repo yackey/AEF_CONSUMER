@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/yackey/Packaging_Investigation/AEF_CONSUMER/build/src",
+  "command": "/usr/local/AvtecGcc-1.0/ARM/armv6-eabihf--glibc--stable-2018.02-2/bin/arm-linux-g++  -DSYSTEM_LINUX -I/home/yackey/.conan/data/AEFLib/1.0/yackey/stable/package/4c60985a53890405e29b2b51a742689485a1de6f/include -I/home/yackey/.conan/data/AvtecGmock/1.0/yackey/stable/package/ef8d7bb63b73bcc98204f8763adba33115db9de2/include -I/home/yackey/Packaging_Investigation/AEF_CONSUMER     -DLINUX=1 -O0 -g -Wall -fprofile-arcs -ftest-coverage -Wno-unknown-pragmas -Wno-sign-compare -Woverloaded-virtual -Wwrite-strings -Wno-unused -fprofile-arcs -ftest-coverage -O0 -g3 -fPIC -MMD -MP   -o CMakeFiles/AefLibConsumerTest.dir/Main.cpp.o -c /home/yackey/Packaging_Investigation/AEF_CONSUMER/src/Main.cpp",
+  "file": "/home/yackey/Packaging_Investigation/AEF_CONSUMER/src/Main.cpp"
+},
+{
+  "directory": "/home/yackey/Packaging_Investigation/AEF_CONSUMER/build/src",
+  "command": "/usr/local/AvtecGcc-1.0/ARM/armv6-eabihf--glibc--stable-2018.02-2/bin/arm-linux-g++  -DSYSTEM_LINUX -I/home/yackey/.conan/data/AEFLib/1.0/yackey/stable/package/4c60985a53890405e29b2b51a742689485a1de6f/include -I/home/yackey/.conan/data/AvtecGmock/1.0/yackey/stable/package/ef8d7bb63b73bcc98204f8763adba33115db9de2/include -I/home/yackey/Packaging_Investigation/AEF_CONSUMER     -DLINUX=1 -O0 -g -Wall -fprofile-arcs -ftest-coverage -Wno-unknown-pragmas -Wno-sign-compare -Woverloaded-virtual -Wwrite-strings -Wno-unused -fprofile-arcs -ftest-coverage -O0 -g3 -fPIC -MMD -MP   -o CMakeFiles/AefLibConsumerTest.dir/MutexTests.cpp.o -c /home/yackey/Packaging_Investigation/AEF_CONSUMER/src/MutexTests.cpp",
+  "file": "/home/yackey/Packaging_Investigation/AEF_CONSUMER/src/MutexTests.cpp"
+},
+{
+  "directory": "/home/yackey/Packaging_Investigation/AEF_CONSUMER/build/src",
+  "command": "/usr/local/AvtecGcc-1.0/ARM/armv6-eabihf--glibc--stable-2018.02-2/bin/arm-linux-g++  -DSYSTEM_LINUX -I/home/yackey/.conan/data/AEFLib/1.0/yackey/stable/package/4c60985a53890405e29b2b51a742689485a1de6f/include -I/home/yackey/.conan/data/AvtecGmock/1.0/yackey/stable/package/ef8d7bb63b73bcc98204f8763adba33115db9de2/include -I/home/yackey/Packaging_Investigation/AEF_CONSUMER     -DLINUX=1 -O0 -g -Wall -fprofile-arcs -ftest-coverage -Wno-unknown-pragmas -Wno-sign-compare -Woverloaded-virtual -Wwrite-strings -Wno-unused -fprofile-arcs -ftest-coverage -O0 -g3 -fPIC -MMD -MP   -o CMakeFiles/AefLibConsumerTest.dir/TimerTests.cpp.o -c /home/yackey/Packaging_Investigation/AEF_CONSUMER/src/TimerTests.cpp",
+  "file": "/home/yackey/Packaging_Investigation/AEF_CONSUMER/src/TimerTests.cpp"
+}
+]
